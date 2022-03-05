@@ -11,6 +11,7 @@ public class PlayerTies1Test {
 
     private Board board;
 
+
     @Before
     public void setup() {
         // Given
